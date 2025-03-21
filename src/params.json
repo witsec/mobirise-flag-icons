@@ -1,9 +1,9 @@
 {
-    "name": "Flag Icons v2",
+    "name": "Flag Icons v3",
     "alias": "witsec-flag-icons",
-    "version": 2,
+    "version": 3,
     "minAppVersion": "4",
     "plugins": ["flag-icons"],
     "description": "Add flag icons to your website. <a href='https://witsec.nl'>Learn more...</a>",
-    "logo": "thumbnail.svg"
+    "logo": "thumbnail.jpg"
 }
